@@ -4,3 +4,7 @@ data:
     username: eureka-client-user
     password: 1291029102
     zkcc: zkk开始了111111
+  redis: 
+    server: localhost
+    port: 6379
+  
